@@ -25,13 +25,12 @@ The visualization is done with standard HTML, CSS, and JavaScript along with the
 
 
 ## Features
-
-Operations : 
-            - Add key
-            - Delete key
-            - Search key
-            - Find min
-            - Find max
+ 
+- Add key
+- Delete key
+- Search key
+- Find min
+- Find max
 
 ## Prerequisites
 - HTML,CSS,Javascript
