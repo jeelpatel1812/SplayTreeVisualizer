@@ -10,7 +10,7 @@ Splay Tree Visualizer for ADS innovative assignment
   <ol>
     <li><a href="#About-The-Project">About The Project</a></li>
     <li><a href="#Features">Features</a></li>
-    <li><a href="#Prerequisites">Features</a></li>
+    <li><a href="#Prerequisites">Prerequisites</a></li>
     <li><a href="#Usage">Usage</a></li>
     <li><a href="#GroupDetails">Contacts</a></li>
   </ol>
